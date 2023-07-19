@@ -1,4 +1,3 @@
-#Ex4
 while True:
 	c=input("Saisir la consommation: \t")
 	if c.isdigit():c=int(c);break
