@@ -1,4 +1,3 @@
-#Exo1
 sb=float(input("Saisir le salaire brut\t"))
 sn=0
 #Retirer les charges CSS du SB
