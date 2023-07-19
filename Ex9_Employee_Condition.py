@@ -1,4 +1,3 @@
-#Ex3
 ir,sn,prime=0,0,500
 while True:
 	salaire=input("Saisir un salaire : \t")
